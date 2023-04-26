@@ -1,6 +1,5 @@
 # OS_Project_Shell_Scripting
 A project based on application designing using shell scripting
-# Shell Scripting
 
 ## Introduction
 This project contains a collection of shell scripts that automate common tasks such as network monitoring system,file management system and disk management system which improves productivity. The scripts are written in the Bash shell and are compatible with most Linux and Unix systems.
